@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title></title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" media="screen" href="/public/stylesheets/main.css">
+                <link rel="shortcut icon" type="image/png" href="/public/images/favicon.png">
+        <script src="/public/javascripts/jquery-1.5.2.min.js" type="text/javascript" charset="utf-8"></script>
+            </head>
+    <body>
+        
+# {welcome/}
+<hr>
+
+
+date: 10.11.2011<br>
+
+true?: false<br>
+some text some text some text some text some text some text some text 
+
+<br>
+
+w: w<br>
+
+bean.a = a<br>
+bean.b = b<br>
+bean.i = 1<br>
+
+
+
+	<b>/application/aw?myBean.a=a&myBean.i=0&myBean.b=b0</b><br>
+	<b>/application/aw?myBean.a=a&myBean.i=0&myBean.b=b0</b>
+	<br>
+	
+		
+    ------<br>
+	index: 1<br>
+
+	bean.a = a<br>
+	bean.b = b0<br>
+	bean.i = 0<br>
+	
+		
+	before tag: <i>morten<br>
+	Also use tag:
+	
+from tag:<br>
+myName: <b>gry</b><br>
+from tag:bean.a = a<br>
+from tag:bean.b = b0<br>
+from tag:bean.i = 0<br>
+<hr>
+	XXXXXXXXX
+	---------------<br>	after tag: <i>morten<br>
+	
+
+# {select/}
+
+
+
+
+
+
+    </body>
+</html>

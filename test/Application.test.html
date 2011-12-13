@@ -1,0 +1,8 @@
+*{ You can use plain selenium command using the selenium tag }*
+
+#{selenium}
+    // Open the home page, and check that no error occured
+    #{include 'test/subtest.selenium'/}
+    assertNotTitle('Application error')
+    assertTextPresent('some text ')
+#{/selenium}
